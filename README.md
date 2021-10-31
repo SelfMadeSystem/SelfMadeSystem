@@ -8,6 +8,8 @@
 
 <sup><sup><sup><sup>Stolen from https://github.com/EthoIRL/EthoIRL</sup></sup></sup></sup>
 
+![snowflake icon](./test.svg)
+
 <!--
 Online names:
 - Sms_Gamer_3808
