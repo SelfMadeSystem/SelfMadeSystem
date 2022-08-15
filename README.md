@@ -2,14 +2,15 @@
 <p align="center">
 	<b>Hey there!</b>
 	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=true-cc&bg_color=90,1f85e8,3636ff&title_color=fff&text_color=fff&icon_color=ccc&count_private=true&show_icons=true&hide_border=true" alt="Github Stats"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=true-cc&bg_color=80,1f85e8,3636ff&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Top Langs"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=selfmadesystem&bg_color=90,1f85e8,3636ff&title_color=fff&text_color=fff&icon_color=ccc&count_private=true&show_icons=true&hide_border=true" alt="Github Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfmadesystem&bg_color=80,1f85e8,3636ff&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Top Langs"/>
 </p>
 
 <sup><sup><sup><sup>Stolen from https://github.com/EthoIRL/EthoIRL</sup></sup></sup></sup>
 
 <!--
 Online names:
+- SelfMadeSystem
 - Sms_Gamer_3808
 - Sms_Gamer
 - True_cc
@@ -25,7 +26,7 @@ Pronouns: he/him/his
 
 
 
-**True-cc/True-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SelfMadeSystem/SelfMadeSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
