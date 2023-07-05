@@ -1,4 +1,4 @@
-<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-top.svg">
+<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/4db1454ab1db74ec58ea2b64cf026e6c67015c2d/wave-top.svg">
 
 
 <h2>
