@@ -1,3 +1,6 @@
+<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-top.svg">
+
+
 <h2>
 	Hello! I'm Shoghi Simon
 </h2>
