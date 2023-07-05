@@ -1,4 +1,4 @@
-<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/4db1454ab1db74ec58ea2b64cf026e6c67015c2d/wave-top.svg">
+<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/4db1454ab1db74ec58ea2b64cf026e6c67015c2d/wave-top.svg">
 
 
 <h2>
@@ -68,4 +68,4 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-232122?&style=for-the-badge&logo=linux&logoColor=white"></a>
 </p>
 
-<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
+<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
