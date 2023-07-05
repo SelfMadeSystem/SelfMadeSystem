@@ -62,4 +62,4 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-232122?&style=for-the-badge&logo=linux&logoColor=white"></a>
 </p>
 
-
+<img height="150em" width="100%" src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
