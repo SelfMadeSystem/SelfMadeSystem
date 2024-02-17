@@ -19,12 +19,12 @@
 <p>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23b7140a.svg?logo=rust&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%233278c7.svg?logo=typescript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Atypescript"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%233278c7.svg?logo=typescript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3AC%23"><img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%23239120.svg?logo=C+Sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Arust"><img alt="Python" src="https://img.shields.io/badge/Rust%20-%23b7140a.svg?logo=rust&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -60,6 +60,12 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303.svg?logo=libreoffice&logoColor=black"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+</p>
+
+### 📙 Learning
+<p>
+    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Ahaskell"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASelfMadeSystem+language%3Alisp"><img alt="Lisp/Scheme" src="https://img.shields.io/badge/Lisp/Scheme-ffffff?logo=racket&logoColor=black"></a>
 </p>
 
 ### 👨🏽‍💻 Workspace
