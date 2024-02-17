@@ -21,7 +21,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23b7140a.svg?logo=rust&logoColor=black"></a>
     <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%233278c7.svg?logo=typescript&logoColor=black"></a>
-    <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%23239120.svg?logo=C+Sharp&logoColor=white"></a>
     <a href="https://nodejs.org/"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
