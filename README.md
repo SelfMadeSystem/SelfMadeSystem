@@ -32,7 +32,7 @@
 <p>
     <a href="https://svelte.dev"><img alt="Svelte" src="https://img.shields.io/badge/Svelte%20-%23ff3e00.svg?logo=svelte&logoColor=white"></a>
     <a href="https://react.dev"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
-    <a href="https://nextjs.org"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
+    <a href="https://nextjs.org"><img alt="Next.JS" src="https://img.shields.io/badge/Next.JS-080808.svg?logo=next.js&logoColor=F6F6F6"></a>
     <a href="https://vuejs.org"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue.js&logoColor=4FC08D"></a>
     <a href="https://godotengine.org"><img alt="Godot" src="https://img.shields.io/badge/Godot-20232a.svg?logo=Godot+Engine&logoColor=478CBF"></a>
     <a href="https://unity.com"><img alt="Unity" src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white"></a>
