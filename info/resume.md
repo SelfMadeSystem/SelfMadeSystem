@@ -158,3 +158,4 @@ Bachelor of Computer Science, 2028
 - [Email](mailto:contact@shoghisimon.ca)
 - [LinkedIn](https://www.linkedin.com/in/shoghi-simon-7a5859180/)
 - [GitHub](https://github.com/SelfMadeSystem)
+- [Discord](https://discord.com/users/299298175825739776)
