@@ -6,13 +6,15 @@ Full-stack developer and System Administrator from Montreal, Canada. Enrolled in
 
 ## Professional Experience
 
-### Canadian Armed Forces
+### [Canadian Armed Forces](https://forces.ca)
 
 *2023 - Present*
 
-- Collaborate with teams to maintain mission-critical systems
-- Enhance system reliability and performance in high-stress environments
-- Maintained leadership during high-pressure situations
+Information Systems Technician
+
+- Ensure high availability of systems during critical operations
+- Regular exercises to maintain operational readiness
+- Provide personalized support to high-ranking officers
 
 ### [Mead Simon](https://meadsimon.ca)
 
@@ -20,10 +22,11 @@ Full-stack developer and System Administrator from Montreal, Canada. Enrolled in
 
 The website for Mead Simon. High-end chain-mail fashion designer.
 
-Made with [PHP](https://www.php.net), [jQuery](https://jquery.com), and [Shopify](https://www.shopify.com).
+- Increased online sales by over 300% in the first year of operation
+- Reduced maintenance costs by over 90% by implementing a custom cloud-based CMS
+- Developed an editor that made creating new content trivial for the client
 
-- Increased online sales by over 300% in the first year
-- Developed custom Shopify integrations
+Made with [PHP](https://www.php.net), [jQuery](https://jquery.com), and [Shopify](https://www.shopify.com).
 
 ### [UdeMHacks](https://udemhacks.com)
 
@@ -31,10 +34,15 @@ Made with [PHP](https://www.php.net), [jQuery](https://jquery.com), and [Shopify
 
 The first website for UdeMHacks, the University of Montreal's hackathon.
 
+The website's high quality impressed sponsors and organizations such as Google, NordVPN, and Morgan Stanley. They recognized our expertise and commitment, leading them to sponsor the event. The site was not only visually appealing but also highly functional, accessible, and bilingual (English and French). It provided essential information in a clear and concise manner without being overly cumbersome.
+
 Made with [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and [Vercel](https://vercel.com).
 
-- Developed the website from scratch
-- Collaborated with the organizing team to ensure the website met their needs
+### [uiverse.io](https://uiverse.io)
+
+*2024-2025*
+
+Improved the text editing experience for uiverse.io causing at least a 20% increase in user retention. Added automatic saving which reduced the number of lost drafts by at least 50%.
 
 ## Projects
 
@@ -42,9 +50,24 @@ Made with [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com)
 
 Made with [Lit](https://lit.dev) and [UnoCSS](https://unocss.com).
 
-- Built responsive portfolio website
-- Implemented SSR for optimal performance (99 Lighthouse score)
+- Implemented SSR for optimal performance (100 Lighthouse score)
 - Followed best practices for accessibility and SEO (100 Lighthouse score)
+- Custom-built CMS for easy content management
+- Zero operational costs across all services running under my domain
+
+#### [live-jsx-app](https://live-jsx-app.shoghisimon.ca)
+
+A live JSX editor that allows you to write TypeScript and React code with Tailwind CSS v4.0 and see the result in real-time.
+
+Requires no build step, no bundler, and no server. Just write JSX and see the result.
+
+To my knowledge, this is the first live JSX editor with TypeScript and React support and instant preview.
+
+Uses [swc](https://swc.rs) for transpilation, PostCSS for Tailwind CSS, and some funky browser finagling to make it all work. Actually rewrote [monaco-tailwindcss](https://github.com/remcohaszing/monaco-tailwindcss) for Tailwind CSS v4.0.
+
+#### [shenanigans](https://shenanigans.shoghisimon.ca)
+
+A collection of fun and interesting projects I've worked on. Includes fancy CSS and WebGL experiments, a 3D SVG renderer, and a few games. Pretty much any complicated effect that won't fit in uiverse.io goes here. Most of the effects are used in production grade websites. All are modular and highly customizable.
 
 ### [Geography.GG](https://geography.gg)
 
@@ -72,6 +95,14 @@ Includes custom-built:
 
 ## Contributions and Open Source
 
+### [uiverse.io](https://uiverse.io) community
+
+- Most active member of the uiverse.io community.
+- Top 26 in the world on the uiverse.io leaderboard (out of 100,000+ users).
+- Contributed to the development of uiverse.io by providing feedback, bug reports, and feature requests.
+  - Reported the most amount of bugs.
+- Consistently rank among the top 5 in the world on the uiverse.io challenges.
+
 ### [W3C Drafts](https://github.com/w3c/csswg-drafts)
 
 Contributed to the W3C CSS Working Group drafts.
@@ -79,10 +110,6 @@ Contributed to the W3C CSS Working Group drafts.
 ### [typst](https://typst.app)
 
 The modern typesetting system. Advertised as the successor to LaTeX.
-
-### [uiverse.io](https://uiverse.io)
-
-The largest open source collection of UI components build for the community, by the community.
 
 ### [valence-rs](https://valence.rs)
 
